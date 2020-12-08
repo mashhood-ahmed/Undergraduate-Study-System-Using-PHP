@@ -1,0 +1,202 @@
+#crd{
+	margin: 0px;
+}
+
+#crd-box{
+
+	padding: 10px;
+	background-color: #1a1aff;
+	height: 600px;
+}
+
+#crd-box #crd-head h1 {
+
+	color: white;
+	letter-spacing: 0.2em;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#crd-box ul {
+
+	background-color: white;
+	padding: 20px;
+	list-style-type: none; 
+
+}
+
+#crd-box ul  li {
+
+	margin-top: 30px;
+}
+
+#crd-box ul  li a {
+
+	padding: 10px;
+}
+
+#crd-box ul  li a:hover{
+
+	background-color: #1a1aff;
+	color: white;
+	transition: .5s;
+}
+
+#up{
+
+	background-color: #1a1aff;
+}
+
+#up-head {
+
+	color: white;
+	letter-spacing: 0.20em;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#up-sec {
+	padding: 20px;
+	background-color: white;
+	height: 400px;
+
+}
+
+#arrow{
+
+	background-color: white;
+	width: 50px;
+	border-radius: 100px;
+
+}
+
+#del {
+
+	background-color: #1a1aff;
+}
+
+#del-head h1 {
+
+	color: white;
+	text-align: center;
+	letter-spacing: 0.20em;
+	text-decoration: underline;
+}
+
+#del-sec{
+
+	padding: 10px;
+	background-color: white;
+	height: 200px;
+}
+
+#f{
+		
+	background-color: #1a1aff;
+}
+
+#f-head h1{
+	color: white;
+	letter-spacing: 0.2em;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#f-sec{
+
+	padding: 10px;
+	background-color: white;
+	height: 400px;
+}
+
+#fal{
+		
+	background-color: #1a1aff;
+}
+
+#fal-head h1{
+	color: white;
+	letter-spacing: 0.2em;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#fal-sec{
+
+	padding: 10px;
+	background-color: white;
+	height: 200px;
+}
+
+#of{
+		
+	background-color: #1a1aff;
+}
+
+#of-head h1{
+	color: white;
+	letter-spacing: 0.2em;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#of-sec{
+
+	padding: 10px;
+	background-color: white;
+	height: 200px;
+}
+
+#vs{
+		
+	background-color: #1a1aff;
+}
+
+#vs-head h1{
+	color: white;
+	letter-spacing: 0.2em;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#vs-sec{
+
+	padding: 10px;
+	background-color: white;
+}
+
+#fa{
+		
+	background-color: #1a1aff;
+}
+
+#fa-head h1{
+	color: white;
+	letter-spacing: 0.2em;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#fa-sec{
+
+	padding: 10px;
+	background-color: white;
+}
+
+#upd{
+		
+	background-color: #1a1aff;
+}
+
+#upd-head h1{
+	color: white;
+	letter-spacing: 0.2em;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#upd-sec{
+
+	padding: 10px;
+	background-color: white;
+}

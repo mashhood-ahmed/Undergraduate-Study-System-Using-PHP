@@ -1,0 +1,109 @@
+#std{
+	margin: 0px;
+}
+
+#std-box{
+
+	padding: 10px;
+	background-color: #1a1aff;
+	height: 600px;
+}
+
+#std-box #std-head h1 {
+
+	color: white;
+	letter-spacing: 0.2em;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#std-box ul {
+
+	background-color: white;
+	padding: 20px;
+	list-style-type: none; 
+
+}
+
+#std-box ul  li {
+
+	margin-top: 30px;
+}
+
+#std-box ul  li a {
+
+	padding: 10px;
+}
+
+#std-box ul  li a:hover{
+
+	background-color: #1a1aff;
+	color: white;
+	transition: .5s;
+}
+
+#reg{
+
+	background-color: #1a1aff;
+}
+
+#reg-head {
+
+	color: white;
+	letter-spacing: 0.20em;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#reg-sec {
+	padding: 20px;
+	background-color: white;
+	height: 200px;
+
+}
+
+#arrow{
+
+	background-color: white;
+	width: 50px;
+	border-radius: 100px;
+
+}
+
+#of{
+
+	background-color: #1a1aff;
+}
+
+#of-head {
+
+	color: white;
+	letter-spacing: 0.20em;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#of-sec {
+	padding: 20px;
+	background-color: white;
+
+}
+
+#w{
+
+	background-color: #1a1aff;
+}
+
+#w-head {
+
+	color: white;
+	letter-spacing: 0.20em;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#w-sec {
+	padding: 20px;
+	background-color: white;
+
+}
